@@ -19,12 +19,12 @@
 
 ## Phone Number Finder
 
-- Description: Program to find phone numbers in text.
+- Description: Program to find phone numbers in text. Either Ncell or Ntc
 - File: `PHone number finder.py`
 
 ## News
 
-- Description: Program to fetch and display news headlines.
+- Description: Program to fetch and display news headlines accordingt to place and speaks
 - File: `news.py`
 
 ## Rock, Paper, and Scissors Game
@@ -34,12 +34,12 @@
 
 ## Shoutout
 
-- Description: Program to print shoutouts.
+- Description: Program to print shoutouts people name and Speaks there name.
 - File: `shoutout.py`
 
 ## Tic-Tac-Toe Game
 
-- Description: Classic tic-tac-toe game.
+- Description: Classic tic-tac-toe game. In Command line based
 - File: `tic_tac_toe.py`
 
 ## Coin Toss
@@ -49,7 +49,7 @@
 
 ## Text File Maker
 
-- Description: Program to create text files.
+- Description: Program to create text files according to the current date & time.
 - File: `txt_file_maker.py`
 
 ## Word Present Check
@@ -59,22 +59,21 @@
 
 ## UI-Based Application
 
-- Description: Application with a user interface.
-- File: UI based
+- Description: List of Application with a user interface.
+- Folder: UI based
 
 ## USB Detection
 
-- Description: Program to detect USB connections.
+- Description: Program to detect new USB connections.
 - File: `usb_detactions`
 
 ## Welcome Program
 
-- Description: Program to welcome users.
+- Description: Program to welcome users as computer is booted up.
 - File: `welcome`
 
-## README
-
-- Description: Initial commit README file.
-- File: `README.md`
 
 Each project has been briefly described along with the file name associated with it. Adjustments can be made based on further details or specific requirements for each project.
+
+This all are my pratice phase Porgram that I did took help in some project with Online resource to boost up my talent
+Being the inital phase project some project are outdated.
